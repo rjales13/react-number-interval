@@ -1,7 +1,20 @@
-# NUMBER INTERVAL
-Small APP about number interval between numbers having just REACT
+<h1 align="center">
+<br>
+NUMBER INTERVAL using React
+</h1>
 
-## STARTING
-1 - run the command: npm i
+<p align="center">Small APP about number interval between numbers having just REACT</p>
 
-2 - run the command: npm run dev
+<div>
+  <img src="index.png" alt="demo">
+</div>
+
+<hr />
+
+## Features
+- **React Js**
+
+## Getting started
+
+- run the command: npm i
+- run the command: npm run start
